@@ -69,3 +69,6 @@ Mysql2:
     mysql2 is a Node.js client library for MySQL databases that provides fast and efficient connectivity. It is an enhanced version of the original mysql package with several improvements, including support for promises, async/await, and better performance.
 
     A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation tim
+# Interesting fact about js
+
+JavaScript was created in just 10 days! In May 1995, Netscape Communications Corporation tasked Brendan Eich with developing a scripting language that would complement Java and appeal to non-professional programmers. Eich created JavaScript (originally called Mocha, then LiveScript) in just 10 days. Despite its quick inception, JavaScript has grown to become one of the most popular and essential programming languages in the world, particularly for web development.
