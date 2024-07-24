@@ -81,3 +81,11 @@ Node.js is perfect for data-intensive applications as it uses an asynchronous, e
 
 2. Which database is more popularly used with Node.js?
 MongoDB is the most common database used with Node.js. It is a NoSQL, cross-platform, document-oriented database that provides high performance, high availability, and easy scalability.
+
+3. What is NPM?
+NPM stands for Node Package Manager, responsible for managing all the packages and modules for Node.js.
+
+Node Package Manager provides two main functionalities:
+
+Provides online repositories for node.js packages/modules, which are searchable on search.nodejs.org
+Provides command-line utility to install Node.js packages and also manages Node.js versions and dependencies  
