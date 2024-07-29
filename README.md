@@ -74,6 +74,14 @@ Mysql2:
 JavaScript was created in just 10 days! In May 1995, Netscape Communications Corporation tasked Brendan Eich with developing a scripting language that would complement Java and appeal to non-professional programmers. Eich created JavaScript (originally called Mocha, then LiveScript) in just 10 days. Despite its quick inception, JavaScript has grown to become one of the most popular and essential programming languages in the world, particularly for web development.
 
 # Nodejs Interview Preparation
+1. Why use Node.js?
+Node.js makes building scalable network programs easy. Some of its advantages include:
+
+It is generally fast
+It rarely blocks
+It offers a unified programming language and data type
+Everything is asynchronous 
+It yields great concurrency
 1. What is Node.js? Where can you use it?
 Node.js is an open-source, cross-platform JavaScript runtime environment and library to run web applications outside the client’s browser. It is used to create server-side web applications.
 
