@@ -97,6 +97,56 @@ Node Package Manager provides two main functionalities:
 
 Provides online repositories for node.js packages/modules, which are searchable on search.nodejs.org
 Provides command-line utility to install Node.js packages and also manages Node.js versions and dependencies  
+112 Node.js Interview Questions to Ace Your Interviews
+Lesson 7 of 9By Taha Sufiyan
+
+Last updated on Jul 16, 2024141467875
+Top 100+ Node.js Interview Questions and Answers for 2024
+PreviousNext
+Table of Contents
+Node.js Interview Questions and Answers For FreshersNode.js Interview Questions and Answers For Intermediate LevelNode.js Interview Questions and Answers For Experienced ProfessionalsConclusion
+Node.js is a super popular server-side platform that more and more organizations are using. If you are preparing for a career change and have an upcoming job interview, it’s always a good idea to prepare and brush up on your interview skills beforehand. Although there are a few commonly asked Node.js interview questions that pop up during all types of interviews, we also recommend that you prepare by focusing on exclusive questions to your specific industry.
+
+We have compiled a comprehensive list of common Node.js interview questions that come up often in interviews and the best ways to answer these questions. This will also help you understand the fundamental concepts of Node.js.
+
+Want a Top Software Development Job? Start Here!
+Full Stack Developer - MERN StackExplore ProgramWant a Top Software Development Job? Start Here!
+Node.js Interview Questions and Answers For Freshers
+This section will provide you with the Basic Node.js interview questions which will primarily help freshers.
+
+1. What is Node.js? Where can you use it?
+Node.js is an open-source, cross-platform JavaScript runtime environment and library to run web applications outside the client’s browser. It is used to create server-side web applications.
+
+Node.js is perfect for data-intensive applications as it uses an asynchronous, event-driven model. You can use  I/O intensive web applications like video streaming sites. You can also use it for developing: Real-time web applications, Network applications, General-purpose applications, and Distributed systems.
+
+2. Why use Node.js?
+Node.js makes building scalable network programs easy. Some of its advantages include:
+
+It is generally fast
+It rarely blocks
+It offers a unified programming language and data type
+Everything is asynchronous 
+It yields great concurrency
+3. How does Node.js work?
+A web server using Node.js typically has a workflow that is quite similar to the diagram illustrated below. Let’s explore this flow of operations in detail.
+
+Node.js Architecture Workflow
+
+Clients send requests to the webserver to interact with the web application. Requests can be non-blocking or blocking:
+Querying for data
+Deleting data 
+Updating the data
+Node.js retrieves the incoming requests and adds those to the Event Queue
+The requests are then passed one-by-one through the Event Loop. It checks if the requests are simple enough not to require any external resources
+The Event Loop processes simple requests (non-blocking operations), such as I/O Polling, and returns the responses to the corresponding clients
+A single thread from the Thread Pool is assigned to a single complex request. This thread is responsible for completing a particular blocking request by accessing external resources, such as computation, database, file system, etc.
+
+Once the task is carried out completely, the response is sent to the Event Loop that sends that response back to the client.
+
+Want a Top Software Development Job? Start Here!
+Full Stack Developer - MERN StackExplore ProgramWant a Top Software Development Job? Start Here!
+4. Why is Node.js Single-threaded?
+Node.js is single-threaded for async processing. By doing async processing on a single-thread under typical web loads, more performance and scalability can be achieved instead of the typical thread-based implementation.
 
 # Express
 What Is Express JS?     
