@@ -132,6 +132,9 @@ A web server using Node.js typically has a workflow that is quite similar to the
 
 Node.js Architecture Workflow
 
+3. What is the difference between asynchronous and synchronous functions?
+Synchronous functions block the execution of other code until they are complete, while asynchronous functions allow other code to continue executing while they are running, making them essential for writing scalable Node.js applications.
+
 Clients send requests to the webserver to interact with the web application. Requests can be non-blocking or blocking:
 Querying for data
 Deleting data 
