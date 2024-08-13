@@ -151,6 +151,8 @@ Full Stack Developer - MERN StackExplore ProgramWant a Top Software Development 
 4. Why is Node.js Single-threaded?
 Node.js is single-threaded for async processing. By doing async processing on a single-thread under typical web loads, more performance and scalability can be achieved instead of the typical thread-based implementation.
 
+Why is Node.js Single-threaded?
+Node.js is single-threaded for async processing. By doing async processing on a single-thread under typical web loads, more performance and scalability can be achieved instead of the typical thread-based implementation.
 # Express
 What Is Express JS?     
 Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application.
