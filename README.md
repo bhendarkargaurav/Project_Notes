@@ -114,6 +114,11 @@ Full Stack Developer - MERN StackExplore ProgramWant a Top Software Development 
 Node.js Interview Questions and Answers For Freshers
 This section will provide you with the Basic Node.js interview questions which will primarily help freshers.
 
+1. What is Express.Js?
+Express is a small framework that sits on top of Node.js’s web server functionality to simplify its APIs and add helpful new features. It makes it easier to organize your application’s functionality with middleware and routing; it adds helpful utilities to Node.js’s HTTP objects; it facilitates the rendering of dynamic HTTP objects.
+
+Express is a part of MEAN stack, a full stack JavaScript solution used in building fast, robust, and maintainable production web applications.
+
 1. What is Node.js? Where can you use it?
 Node.js is an open-source, cross-platform JavaScript runtime environment and library to run web applications outside the client’s browser. It is used to create server-side web applications.
 
