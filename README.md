@@ -53,7 +53,7 @@ Nature:
     • Git is a version control system designed for tracking changes in code locally and facilitating distributed development.
     • GitHub is a web-based platform that provides Git repository hosting, collaboration tools, and project management features.
 
-Sequelize:
+Sequelize: GAurav
     Sequelize is a popular Node.js ORM (Object-Relational Mapping) library that provides an easy-to-use interface for interacting with SQL databases. It supports various SQL databases such as MySQL, PostgreSQL, SQLite, and MSSQL, allowing developers to work with databases using JavaScript 
     Sequelize provides a powerful querying API that supports CRUD operations (Create, Read, Update, Delete) and complex queries using methods like findAll, findOne, create, update, and destroy.
     Hooks and Validation: Sequelize provides hooks (callbacks) that allow you to execute custom logic before or after specific actions (e.g., before saving a record). It also supports data validation to ensure that only valid data is inserted into the database.
