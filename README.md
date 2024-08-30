@@ -161,5 +161,5 @@ Node.js is single-threaded for async processing. By doing async processing on a 
 # Express
 What Is Express JS?     
 Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application.
-
+Node.js is perfect for data-intensive applications as it uses an asynchronous, event-driven model. You can use  I/O intensive web applications like video streaming sites. You can also use it for developing: Real-time web applications, Network applications, General-purpose applications, and Distributed systems.
 It's a layer built on the top of the Node js that helps manage servers and routes.
