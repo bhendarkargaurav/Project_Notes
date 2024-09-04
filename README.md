@@ -151,7 +151,7 @@ The Event Loop processes simple requests (non-blocking operations), such as I/O 
 A single thread from the Thread Pool is assigned to a single complex request. This thread is responsible for completing a particular blocking request by accessing external resources, such as computation, database, file system, etc.
 
 Once the task is carried out completely, the response is sent to the Event Loop that sends that response back to the client.
-
+MongoDB is the most common database used with Node.js. It is a NoSQL, cross-platform, document-oriented database that provides high performance, high availability, and easy scalability.
 Want a Top Software Development Job? Start Here!
 Full Stack Developer - MERN StackExplore ProgramWant a Top Software Development Job? Start Here!
 4. Why is Node.js Single-threaded?
