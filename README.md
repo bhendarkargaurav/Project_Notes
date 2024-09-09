@@ -114,7 +114,7 @@ Want a Top Software Development Job? Start Here!
 Full Stack Developer - MERN StackExplore ProgramWant a Top Software Development Job? Start Here!
 Node.js Interview Questions and Answers For Freshers
 This section will provide you with the Basic Node.js interview questions which will primarily help freshers.
-
+ss.js is a lightweight Node.js framework that gives us ability to create server-side web applications faster and smarter. The main reason for choosing Express is its simplicity, minimalism, flexibility, and scalability characteristics. It provides easy setup for middlewares and routing.
 1. What is Express.Js?
 Express is a small framework that sits on top of Node.js’s web server functionality to simplify its APIs and add helpful new features. It makes it easier to organize your application’s functionality with middleware and routing; it adds helpful utilities to Node.js’s HTTP objects; it facilitates the rendering of dynamic HTTP objects.
 
