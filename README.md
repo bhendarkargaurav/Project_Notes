@@ -41,6 +41,8 @@
     app.listen(port, () => {
       console.log(`Server running at http://localhost:${port}`);
     });
+    16. Which database is more popularly used with Node.js?
+MongoDB is the most common database used with Node.js. It is a NoSQL, cross-platform, document-oriented database that provides high performance, high availability, and easy scalability.
 
     gaurav
     
