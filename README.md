@@ -45,7 +45,7 @@
 MongoDB is the most common database used with Node.js. It is a NoSQL, cross-platform, document-oriented database that provides high performance, high availability, and easy scalability.
 
     gaurav
-    
+    Elements in an array can be modified by assigning a new value to their corresponding index.
 Git
     Definition: Git is a distributed version control system (VCS) that allows developers to track changes in their codebase over time. It manages source code history, facilitates collaboration among team members, and enables branching and merging for parallel development.
     Usage: Git is primarily used for managing source code and tracking its evolution, facilitating collaboration among developers on a project.
