@@ -46,6 +46,9 @@ The V8 engine, developed by Google, is open-source and written in C++. Google Ch
     16. Which database is more popularly used with Node.js?
 MongoDB is the most common database used with Node.js. It is a NoSQL, cross-platform, document-oriented database that provides high performance, high availability, and easy scalability.
 
+2. Why use Express.Js?
+Express.js is a lightweight Node.js framework that gives us ability to create server-side web applications faster and smarter. The main reason for choosing Express is its simplicity, minimalism, flexibility, and scalability characteristics. It provides easy setup for middlewares and routing.
+
     gaurav
     Elements in an array can be modified by assigning a new value to their corresponding index.
 Git
