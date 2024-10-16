@@ -48,7 +48,7 @@ MongoDB is the most common database used with Node.js. It is a NoSQL, cross-plat
 
 2. Why use Express.Js?
 Express.js is a lightweight Node.js framework that gives us ability to create server-side web applications faster and smarter. The main reason for choosing Express is its simplicity, minimalism, flexibility, and scalability characteristics. It provides easy setup for middlewares and routing.
-
+Algorithm is a step-by-step procedure for solving a problem or accomplishing a task. In the context of data structures and algorithms, it is a set of well-defined instructions for performing a specific computational task.
     gaurav
     Elements in an array can be modified by assigning a new value to their corresponding index.
 Git
