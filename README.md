@@ -74,6 +74,7 @@ Sequelize-cli:
     • Same for Seeders:
 
     JavaScript's dynamic capabilities include runtime object construction, variable parameter lists, function variables, dynamic script creation (via eval), object introspection (via for...in and Object utilities), and source-code recovery (JavaScript functions store their source text and can be retrieved through toString()).
+    coms
     
 Mysql2:
     mysql2 is a Node.js client library for MySQL databases that provides fast and efficient connectivity. It is an enhanced version of the original mysql package with several improvements, including support for promises, async/await, and better performance.
