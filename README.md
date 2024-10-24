@@ -22,9 +22,9 @@
 
 46. For Node.js, why does Google use the V8 engine?
 The V8 engine, developed by Google, is open-source and written in C++. Google Chrome makes use of this engine. V8, unlike the other engines, is also utilized for the popular Node.js runtime. V8 was initially intended to improve the speed of JavaScript execution within web browsers. Instead of employing an interpreter, V8 converts JavaScript code into more efficient machine code to increase performance. It turns JavaScript code into machine code during execution by utilizing a JIT (Just-In-Time) compiler, as do many current JavaScript engines such as SpiderMonkey or Rhino (Mozilla).
+
     2. Setup Express:
 
-    // in src/index.js
     const express = require('express');
     const bodyParser = require('body-parser');
     
@@ -43,16 +43,19 @@ The V8 engine, developed by Google, is open-source and written in C++. Google Ch
     app.listen(port, () => {
       console.log(`Server running at http://localhost:${port}`);
     });
-    16. Which database is more popularly used with Node.js?
+    
+Which database is more popularly used with Node.js?
 MongoDB is the most common database used with Node.js. It is a NoSQL, cross-platform, document-oriented database that provides high performance, high availability, and easy scalability.
 
-2. Why use Express.Js?
+Why use Express.Js?
 Express.js is a lightweight Node.js framework that gives us ability to create server-side web applications faster and smarter. The main reason for choosing Express is its simplicity, minimalism, flexibility, and scalability characteristics. It provides easy setup for middlewares and routing.
+
+DSA ?
 Algorithm is a step-by-step procedure for solving a problem or accomplishing a task. In the context of data structures and algorithms, it is a set of well-defined instructions for performing a specific computational task.
-    gaurav
-    Elements in an array can be modified by assigning a new value to their corresponding index.
-Git
-    Definition: Git is a distributed version control system (VCS) that allows developers to track changes in their codebase over time. It manages source code history, facilitates collaboration among team members, and enables branching and merging for parallel development.
+Elements in an array can be modified by assigning a new value to their corresponding index.
+
+*Git?
+Git is a distributed version control system (VCS) that allows developers to track changes in their codebase over time. It manages source code history, facilitates collaboration among team members, and enables branching and merging for parallel development.
     Usage: Git is primarily used for managing source code and tracking its evolution, facilitating collaboration among developers on a project.
 GitHub
     • Definition: GitHub is a web-based platform that provides Git repository hosting along with additional collaboration features. It extends Git’s functionality by offering a centralized cloud-based platform for project management, code review, issue tracking, and team collaboration.
@@ -61,10 +64,9 @@ Nature:
     • Git is a version control system designed for tracking changes in code locally and facilitating distributed development.
     • GitHub is a web-based platform that provides Git repository hosting, collaboration tools, and project management features.
 
-Sequelize: GAurav
+Sequelize: 
     Sequelize is a popular Node.js ORM (Object-Relational Mapping) library that provides an easy-to-use interface for interacting with SQL databases. It supports various SQL databases such as MySQL, PostgreSQL, SQLite, and MSSQL, allowing developers to work with databases using JavaScript 
     Sequelize provides a powerful querying API that supports CRUD operations (Create, Read, Update, Delete) and complex queries using methods like findAll, findOne, create, update, and destroy.
-    Hooks and Validation: Sequelize provides hooks (callbacks) that allow you to execute custom logic before or after specific actions (e.g., before saving a record). It also supports data validation to ensure that only valid data is inserted into the database.
     
 Sequelize-cli:
     The sequelize-cli is a command-line interface (CLI) tool for Sequelize
