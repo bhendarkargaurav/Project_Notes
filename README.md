@@ -76,14 +76,11 @@ Sequelize-cli:
     • Same for Seeders:
 
     JavaScript's dynamic capabilities include runtime object construction, variable parameter lists, function variables, dynamic script creation (via eval), object introspection (via for...in and Object utilities), and source-code recovery (JavaScript functions store their source text and can be retrieved through toString()).
-    coms
-    
+
 Mysql2:
     mysql2 is a Node.js client library for MySQL databases that provides fast and efficient connectivity. It is an enhanced version of the original mysql package with several improvements, including support for promises, async/await, and better performance.
 
-    A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation tim
 # Interesting fact about js
-
 JavaScript was created in just 10 days! In May 1995, Netscape Communications Corporation tasked Brendan Eich with developing a scripting language that would complement Java and appeal to non-professional programmers. Eich created JavaScript (originally called Mocha, then LiveScript) in just 10 days. Despite its quick inception, JavaScript has grown to become one of the most popular and essential programming languages in the world, particularly for web development.
 
 # Nodejs Interview Preparation
@@ -95,6 +92,7 @@ It rarely blocks
 It offers a unified programming language and data type
 Everything is asynchronous 
 It yields great concurrency
+
 1. What is Node.js? Where can you use it?
 Node.js is an open-source, cross-platform JavaScript runtime environment and library to run web applications outside the client’s browser. It is used to create server-side web applications.
 
@@ -107,26 +105,15 @@ MongoDB is the most common database used with Node.js. It is a NoSQL, cross-plat
 NPM stands for Node Package Manager, responsible for managing all the packages and modules for Node.js.
 
 Node Package Manager provides two main functionalities:
-
 Provides online repositories for node.js packages/modules, which are searchable on search.nodejs.org
 Provides command-line utility to install Node.js packages and also manages Node.js versions and dependencies  
-112 Node.js Interview Questions to Ace Your Interviews
-Lesson 7 of 9By Taha Sufiyan
 
-Last updated on Jul 16, 2024141467875
-Top 100+ Node.js Interview Questions and Answers for 2024
-PreviousNext
-Table of Contents
-Node.js Interview Questions and Answers For FreshersNode.js Interview Questions and Answers For Intermediate LevelNode.js Interview Questions and Answers For Experienced ProfessionalsConclusion
 Node.js is a super popular server-side platform that more and more organizations are using. If you are preparing for a career change and have an upcoming job interview, it’s always a good idea to prepare and brush up on your interview skills beforehand. Although there are a few commonly asked Node.js interview questions that pop up during all types of interviews, we also recommend that you prepare by focusing on exclusive questions to your specific industry.
 
-We have compiled a comprehensive list of common Node.js interview questions that come up often in interviews and the best ways to answer these questions. This will also help you understand the fundamental concepts of Node.js.
+Want a Top Software Development Job? 
 
-Want a Top Software Development Job? Start Here!
-Full Stack Developer - MERN StackExplore ProgramWant a Top Software Development Job? Start Here!
-Node.js Interview Questions and Answers For Freshers
-This section will provide you with the Basic Node.js interview questions which will primarily help freshers.
-ss.js is a lightweight Node.js framework that gives us ability to create server-side web applications faster and smarter. The main reason for choosing Express is its simplicity, minimalism, flexibility, and scalability characteristics. It provides easy setup for middlewares and routing.
+.js is a lightweight Node.js framework that gives us ability to create server-side web applications faster and smarter. The main reason for choosing Express is its simplicity, minimalism, flexibility, and scalability characteristics. It provides easy setup for middlewares and routing.
+
 1. What is Express.Js?
 Express is a small framework that sits on top of Node.js’s web server functionality to simplify its APIs and add helpful new features. It makes it easier to organize your application’s functionality with middleware and routing; it adds helpful utilities to Node.js’s HTTP objects; it facilitates the rendering of dynamic HTTP objects.
 
@@ -175,6 +162,3 @@ Node.js is single-threaded for async processing. By doing async processing on a 
 What Is Express JS?     
 Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application.
 Node.js is perfect for data-intensive applications as it uses an asynchronous, event-driven model. You can use  I/O intensive web applications like video streaming sites. You can also use it for developing: Real-time web applications, Network applications, General-purpose applications, and Distributed systems.
-It's a layer built on the top of the Node js that helps manage servers and routes.
-Why use Express.Js?
-Express.js is a lightweight Node.js framework that gives us ability to create server-side web applications faster and smarter. The main reason for choosing Express is its simplicity, minimalism, flexibility, and scalability characteristics. It provides easy setup for middlewares and routing.
