@@ -18,7 +18,7 @@
  
     • Controllers: Controllers handle the incoming HTTP requests and define the logic for processing them. They interact with services or models to fetch and manipulate data, and then send responses back to the client.
     • Middlewares: Middlewares are functions that process requests before they reach the controllers. They are used for tasks like authentication, logging, validation, and error handling, providing reusable functionality across the application.
-    • Repository: The repository layer is responsible for interacting with the database. It abstracts the data access logic, making it easier to manage CRUD operations and other database queries in a centralized manner.
+    • Repository: The repository layer is responsible for interacting with the database. It abstracts the data access logic, making it easier to manage CRUD operations and other database queries in a centralized manner..
 
 46. For Node.js, why does Google use the V8 engine?
 The V8 engine, developed by Google, is open-source and written in C++. Google Chrome makes use of this engine. V8, unlike the other engines, is also utilized for the popular Node.js runtime. V8 was initially intended to improve the speed of JavaScript execution within web browsers. Instead of employing an interpreter, V8 converts JavaScript code into more efficient machine code to increase performance. It turns JavaScript code into machine code during execution by utilizing a JIT (Just-In-Time) compiler, as do many current JavaScript engines such as SpiderMonkey or Rhino (Mozilla).
