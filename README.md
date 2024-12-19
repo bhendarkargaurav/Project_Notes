@@ -180,3 +180,5 @@ Middleware: Express uses middleware functions to perform tasks during the reques
 HTTP Utility Methods: Express mainly used for handling HTTP methods like GET, POST, PUT, and DELETE. This makes it easy to define how the application should respond to different types of HTTP requests.
 Static File Serving: It can also serve static files, such as images, CSS, and JavaScript, with the help of built-in express.static middleware.
 Security: It includes features and middleware to strengthen the security of your web applications, such as the helmet middleware to secure your app.
+
+MongoDB: MongoDB is a NoSQL database that shops records in a bendy, JSON-like format. It is used because the database for storing OTP and associated data on this software. MongoDB's flexibility makes it suitable for storing unstructured or semi-structured information like OTPs.
