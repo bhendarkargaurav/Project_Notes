@@ -182,3 +182,7 @@ Static File Serving: It can also serve static files, such as images, CSS, and Ja
 Security: It includes features and middleware to strengthen the security of your web applications, such as the helmet middleware to secure your app.
 
 MongoDB: MongoDB is a NoSQL database that shops records in a bendy, JSON-like format. It is used because the database for storing OTP and associated data on this software. MongoDB's flexibility makes it suitable for storing unstructured or semi-structured information like OTPs.
+
+
+ What is .env file used for?
+The .env file is used for storing sensitive information in a web application which we don't want to expose to others like password, database connection string etc. It is a simple text file where each line represents a key-value pair, and these pairs are used to configure various aspects of the application.
