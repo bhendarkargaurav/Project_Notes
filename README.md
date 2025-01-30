@@ -1,4 +1,4 @@
-# Notes
+# important notes
 
     1. NPM
     npm (Node Package Manager) is a package manager for JavaScript, and it is the default package manager for the Node.js JavaScript runtime environment. It helps developers manage dependencies for their projects, allowing them to easily install, update, and manage libraries and packages that their applications rely on.
