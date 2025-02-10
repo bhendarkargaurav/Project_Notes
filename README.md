@@ -175,6 +175,9 @@ JSON Web Token (JWT) Integration. ...
 Mentions few features of Express.js.
 Few features of the Express.js includes
 
+What is Authentication?
+Authentication is the process of verifying the identity of a user or system. In the context of web development, authentication is commonly used to grant access to users based on their credentials, such as username and password.
+
 Routing: Express provides a simple way to define routes for handling HTTP requests. Routes are used to map different URLs to specific pieces of code, making it easy to organize your application's logic.
 Middleware: Express uses middleware functions to perform tasks during the request-response cycle. Middleware functions have access to the request, response, and the next middleware function.
 HTTP Utility Methods: Express mainly used for handling HTTP methods like GET, POST, PUT, and DELETE. This makes it easy to define how the application should respond to different types of HTTP requests.
